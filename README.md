@@ -121,7 +121,8 @@ StudentManagementSystem.exe
 
 **Aditya Raj**
 
-GitHub: https://github.com/sekiiroo
+Linkedin: www.linkedin.com/in/adityaraj3624
+GitHub: https://github.com/adityaraj3624
 
 ---
 
