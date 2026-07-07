@@ -40,7 +40,7 @@ A console-based **Student Management System** developed using **C++** to efficie
 ```text
 student-management-system-cpp/
 │
-├── main.cpp
+├── sms.cpp
 ├── README.md
 ├── LICENSE
 └── .gitignore
